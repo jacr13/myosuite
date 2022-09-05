@@ -1,6 +1,7 @@
 click
 sk-video
 gym==0.13
+mujoco-py
 termcolor
 flatten_dict
 h5py==3.7.0
